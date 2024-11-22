@@ -72,3 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /[Aa]ssets/Potential Assets.meta
 /[Aa]ssets/Potential Assets/*
+/[Aa]ssets/Plugins/Demigiant.meta
+/[Aa]ssets/Plugins/Demigiant/*
+/Resources/DOTween*.*
